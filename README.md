@@ -13,14 +13,14 @@ conda activate interview
 
 ## GitHub Commands:
 ```bash
-1. git clone https://github.com/dtsatyam/InterviewQuestionCreator.git
+git clone https://github.com/dtsatyam/InterviewQuestionCreator.git
 ```
 ```
-2. git add .
+git add .
 ```
 ```
-3. git commit -m "Commit message"
+git commit -m "Commit message"
 ```
 ```
-4. git push origin main
+git push origin main
 ```
