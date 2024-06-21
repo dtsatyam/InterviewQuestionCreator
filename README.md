@@ -10,6 +10,10 @@ conda create -p interview python==3.10 -y
 ```
 conda activate interview
 ```
+3. Installing required packages
+```
+pip install -r requirements.txt
+```
 
 ## GitHub Commands:
 ```bash
